@@ -15,7 +15,5 @@ namespace PrCodeFirst.Models
      
     }
 
-    public class Enrollment
-    {
-    }
+ 
 }
