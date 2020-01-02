@@ -1,3 +1,4 @@
 https://www.tutorialsteacher.com/csharp/csharp-enum
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
 https://www.youtube.com/playlist?list=PLo6rP-1ZmUIL2MDdjOlheF9hYTqKserVA&fbclid=IwAR3FQneHxP46UXJWTxn38z7lcDszwu2jUql77WtVylsSMuW5uu6nP4S4E2c
+$ git commit -m "26-13-2019_12:41AM_ifelsevariable
