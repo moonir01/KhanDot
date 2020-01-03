@@ -1,6 +1,0 @@
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-E:\Cloud\One\OneDrive\Devs\C#\BeginersDot\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
