@@ -1,0 +1,28 @@
+﻿@model demoMdl.Models.emp
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <thead>
+            <th>Employee ID</th>
+            <th>Employee Name</th>
+            <th>Employee Designaiton</th>
+            <th>Employee AGE</th>
+            <th>Salary</th>
+            </thead>
+            <td>@Model.empid</td>
+            <td>@Model.empname</td>
+            <td>@Model.empdesignation</td>
+            <td>@Model.empage</td>
+            <tr>@Model.empsalary</tr>
+        </table>
+    </div>
+</body>
+</html>
