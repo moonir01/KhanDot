@@ -13,6 +13,7 @@ namespace enum2
         {
             Console.WriteLine((int)names.Abir);
             foreach (string str in Enum.GetNames(typeof(names)))
+               
                 Console.WriteLine(str);
             Console.ReadLine();
         }
